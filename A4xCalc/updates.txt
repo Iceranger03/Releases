@@ -1,4 +1,4 @@
-0.1.1=https://github.com/Iceranger03/Releases/blob/master/A4xCalc/A4xCalc_v0.1.1.zip
-0.1.2=https://github.com/Iceranger03/Releases/blob/master/A4xCalc/A4xCalc_v0.1.2.zip
-0.1.3=https://github.com/Iceranger03/Releases/blob/master/A4xCalc/A4xCalc_v0.1.3.zip
-0.2.1=https://github.com/Iceranger03/Releases/blob/master/A4xCalc/A4xCalc_v0.2.1.zip
+0.1.1=https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.1.1.zip
+0.1.2=https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.1.2.zip
+0.1.3=https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.1.3.zip
+0.2.1=https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.2.1.zip
