@@ -16,7 +16,7 @@
     // Required
     // Executable, Database, RootUtility, or Utility
     // Casing does not matter
-    "type": "utility",
+    "type": "RootUtility",
 
     // Required for Executable, RootUtility, and Utility mods
     // The command used to launch or apply the mod
@@ -71,6 +71,11 @@
             "version": "0.3.1",
             "target_aurora_version": "1",
             "download_url": "https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.3.1.zip"
+        },
+        {
+            "version": "0.3.2",
+            "target_aurora_version": "1",
+            "download_url": "https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.3.2.zip"
         }
     ]
 }
