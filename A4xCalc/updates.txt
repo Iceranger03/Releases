@@ -27,3 +27,4 @@
 0.5.8=https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.5.8.zip
 0.5.9=https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.5.9.zip
 0.5.10=https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.5.10.zip
+0.5.11=https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.5.11.zip

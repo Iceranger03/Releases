@@ -181,6 +181,11 @@
             "version": "0.5.10",
             "target_aurora_version": "1",
             "download_url": "https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.5.10.zip"
+        },
+        {
+            "version": "0.5.11",
+            "target_aurora_version": "1",
+            "download_url": "https://github.com/Iceranger03/Releases/raw/master/A4xCalc/A4xCalc_v0.5.11.zip"
         }
     ]
 }
